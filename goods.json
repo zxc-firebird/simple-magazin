@@ -1,0 +1,45 @@
+{
+    "17990367": {
+        "image": "imgs/1.jpg",
+        "name": "T-shirt 1",
+        "price": 2100,
+        "article": "T1",
+        "available": true,
+        "category": "Мужские"
+    },
+    "21801347": {
+        "image": "imgs/2.jpg",
+        "name": "T-shirt 2",
+        "price": 3150,
+        "article": "T2",
+        "category": "Женские"
+    },
+    "35676804": {
+        "image": "imgs/3.jpg",
+        "name": "T-shirt 3",
+        "price": 4200,
+        "article": "T3",
+        "category": "Женские"
+    },
+    "42641379": {
+        "image": "imgs/4.jpg",
+        "name": "T-shirt 4",
+        "price": 5300,
+        "article": "T4",
+        "category": "Мужские"
+    },
+    "53809739": {
+        "image": "imgs/5.jpg",
+        "name": "T-shirt 5",
+        "price": 6500,
+        "article": "T5",
+        "category": "Женские"
+    },
+    "62153793": {
+        "image": "imgs/6.jpg",
+        "name": "T-shirt 6",
+        "price": 8700,
+        "article": "T6",
+        "category": "Женские"
+    }
+}
